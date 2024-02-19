@@ -57,7 +57,7 @@
                 "styles": {
                   "minify": true,
                   "inlineCritical": false
-                  },
+                },
                 "fonts": true
               },
               "vendorChunk": true,
@@ -99,7 +99,7 @@
               "src/assets"
             ],
             "styles": [
-              
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
